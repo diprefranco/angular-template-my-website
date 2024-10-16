@@ -1,27 +1,34 @@
-# AngularTemplateMyWebsite
+Angular Template For My Website
+============
+This is an Angular project to start a personal website.
+# ![AngularTemplateForMyWebsite](https://diprefranco.github.io/angular-template-my-website/images/website.png)
 
+---
+## Demo
+https://diprefranco.github.io/angular-template-my-website/
+
+## Site
+The site shows a header followed by the main section (hero section) to catch users attention.
+
+After that, we have:
+- A section with sample images.
+- A section with cards.
+- A section with two buttons to show additional information.
+
+At the end, we have the footer showing the site icon, links and the contact svg icons.
+All the site is **responsive** (it adjusts to different screen sizes).
+
+## Usage
+After you clone this repo to your local machine, go to its root directory and run `npm install` to install its dependencies.
+Once the dependencies are installed, you can run  `npm start` to start the application.
+
+## Versions
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
-## Development server
+## Thanks to
+This web design is based on one from [Sajid](https://www.iamsajid.com/)
+I want to thank him for his videos and examples.
+[Sajid's YouTube channel](https://www.youtube.com/@whosajid) in case you wanna learn some web design tricks and basics.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+2024 [Franco Dipre](https://github.com/diprefranco/)
