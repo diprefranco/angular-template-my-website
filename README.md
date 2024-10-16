@@ -15,7 +15,7 @@ After that, we have:
 - A section with cards.
 - A section with two buttons to show additional information.
 
-At the end, we have the footer showing the site icon, links and the contact svg icons.__
+At the end, we have the footer showing the site icon, links and the contact svg icons.<br />
 All the site is **responsive** (it adjusts to different screen sizes).
 
 ## Usage
@@ -26,7 +26,7 @@ Once the dependencies are installed, you can run  `npm start` to start the appli
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
 ## Thanks to
-This web design is based on one from [Sajid](https://www.iamsajid.com/). I want to thank him for his videos and examples.__
+This web design is based on one from [Sajid](https://www.iamsajid.com/). I want to thank him for his videos and examples.<br />
 [Sajid's YouTube channel](https://www.youtube.com/@whosajid) in case you wanna learn some web design tricks and basics.
 
 ---
