@@ -29,5 +29,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This web design is based on one from [Sajid](https://www.iamsajid.com/). I want to thank him for his videos and examples.<br />
 [Sajid's YouTube channel](https://www.youtube.com/@whosajid) in case you wanna learn some web design tricks and basics.
 
----
+## Author
 GitHub: [Franco Dipre](https://github.com/diprefranco/)
+
+## License
+[MIT LICENSE](LICENSE)
