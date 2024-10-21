@@ -13,7 +13,7 @@ export class HeaderComponent implements OnInit {
     this.setHamburgerMenuConfig();
   }
 
-  setHamburgerMenuConfig() {
+  private setHamburgerMenuConfig() {
     const hamburger = document.querySelector(".hamburger");
     const navMenu = document.querySelector(".nav-menu");
 
