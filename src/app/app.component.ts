@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
 import { HeaderComponent } from './layout/header/header.component';
 import { FooterComponent } from "./layout/footer/footer.component";
-import { HeroComponent } from "./layout/hero/hero.component";
-import { SampleImagesComponent } from "./layout/sample-images/sample-images.component";
-import { CardsComponent } from './layout/cards/cards.component';
-import { MoreInformationComponent } from "./layout/more-information/more-information.component";
-import { TimelineComponent } from './layout/timeline/timeline.component';
+import { HeroComponent } from "./sections/hero/hero.component";
+import { SampleImagesComponent } from "./sections/sample-images/sample-images.component";
+import { TimelineComponent } from './sections/timeline/timeline.component';
+import { CardsComponent } from './sections/cards/cards.component';
+import { MoreInformationComponent } from "./sections/more-information/more-information.component";
 
 @Component({
   selector: 'app-root',
@@ -15,9 +15,9 @@ import { TimelineComponent } from './layout/timeline/timeline.component';
     FooterComponent,
     HeroComponent,
     SampleImagesComponent,
+    TimelineComponent,
     CardsComponent,
-    MoreInformationComponent,
-    TimelineComponent
+    MoreInformationComponent
 ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
