@@ -78,6 +78,10 @@ svg:hover {
   font-weight: inherit;
 }
 
+a {
+  font-weight: unset;
+}
+
 @media (max-width: 768px) {
   .footer-content {
     justify-content: flex-start;
