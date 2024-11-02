@@ -1,33 +1,36 @@
 Angular Template For My Website
 ============
 This is an Angular project you can use to build your personal website.
-# ![AngularTemplateForMyWebsite](https://diprefranco.github.io/angular-template-my-website/assets/img/website.png)
 
----
 ## Demo
 https://diprefranco.github.io/angular-template-my-website/
 
-## Site
+# ![Website Screenshot](https://diprefranco.github.io/angular-template-my-website/assets/img/website.png)
+
+## Website Overview
 The site shows a header followed by the main section (hero section) to catch users attention.
 
 After that, we have:
 - A section with sample images.
+- A section with a timeline.
 - A section with cards.
 - A section with two buttons to show additional information.
 
-At the end, we have the footer showing the site icon, links and the contact svg icons.<br />
-All the site is **responsive** (it adjusts to different screen sizes).
+The footer contains the site icon, navigation links, and contact icons. The entire site is **responsive** and adjusts to different screen sizes.
 
 ## Usage
-After you clone this repo to your local machine, go to its root directory and run `npm install` to install its dependencies.
-Once the dependencies are installed, you can run  `npm start` to start the application.
+To run the site locally, clone this repository and navigate to the root directory. Then, install the dependencies with:<br />
+`npm install`
 
-## Versions
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+Start the application with:<br />
+`npm start`
 
-## Thanks to
-This web design is based on one from [Sajid](https://www.iamsajid.com/). I want to thank him for his videos and examples.<br />
-[Sajid's YouTube channel](https://www.youtube.com/@whosajid) in case you wanna learn some web design tricks and basics.
+## Version Information
+This project was built with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+
+## Acknowledgments
+This design was inspired by work from [Sajid](https://www.iamsajid.com/). I want to thank him for his videos and examples.<br />
+Check out [Sajid's YouTube channel](https://www.youtube.com/@whosajid) to learn some great web design basics and tricks.
 
 ## Author
 GitHub: [Franco Dipre](https://github.com/diprefranco/)
