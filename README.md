@@ -5,7 +5,7 @@ This is an Angular project you can use to build your personal website.
 ## Demo
 https://diprefranco.github.io/angular-template-my-website/
 
-# ![Website Screenshot](https://diprefranco.github.io/angular-template-my-website/assets/img/website.png)
+# ![Website Screenshot](https://github.com/diprefranco/angular-template-my-website/blob/main-v1.1/src/assets/img/website.png)
 
 ## Website Overview
 The site shows a header followed by the main section (hero section) to catch users attention.
