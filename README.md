@@ -1,7 +1,7 @@
 Angular Template For My Website
 ============
 This is an Angular project you can use to build your personal website.
-# ![AngularTemplateForMyWebsite](https://diprefranco.github.io/angular-template-my-website/assets/img/website.png)
+# ![AngularTemplateForMyWebsite](https://github.com/diprefranco/angular-template-my-website/blob/main-v1.0/src/assets/img/website.png)
 
 ---
 ## Demo
